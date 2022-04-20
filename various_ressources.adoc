@@ -17,6 +17,8 @@ Challenges::
     * https://pwnable.xyz/
     * https://pwnable.kr/
     * https://pwnable.tw/
+ASM quick guide::
+   * https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf
 
 == Solidity development ressources
 
