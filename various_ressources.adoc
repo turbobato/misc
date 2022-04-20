@@ -44,6 +44,7 @@ Regroupment of great CTF training sites::
 Overall CTF info::
     * Twitter thread (fr) with great ressources/advices : https://twitter.com/MathisHammel/status/1478009056187109380
     * CTF time for keeping track of CTFs : https://ctftime.org/
+    * Ressources from root-me : https://repository.root-me.org/
 
 == Misc 
 
