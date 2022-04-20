@@ -50,4 +50,5 @@ Overall CTF info::
 A great JS tutorial:: https://javascript.info/
 Great blog post on monads in functional programming:: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 A blog by a Telecom teacher that I like:: http://www.madore.org/~david/
+Bash cheatsheet with link to a good bash guide:: https://devhints.io/bash
 
