@@ -1,0 +1,53 @@
+= Various ressources
+:url-repo: https://github.com/KatanaFluorescent/misc
+:toc:
+
+====
+This is just a random asciidoc where I store everything I happen to find that I think can either be useful and intersting, and that I don't want to store in my bookmarks.
+====
+
+== Ressources for reveng/pwning 
+
+
+Courses:: 
+    * https://guyinatuxedo.github.io/
+    * https://pwn.college/
+Challenges::
+    * https://www.w3challs.com/challenges/pwn/
+    * https://pwnable.xyz/
+    * https://pwnable.kr/
+    * https://pwnable.tw/
+
+== Solidity development ressources
+
+Interactive tutorial (a bit outdated):: https://cryptozombies.io/
+Documentation:: https://docs.soliditylang.org/en/v0.8.13/
+WhitePaper ethereum for understanding the overall functionnement of blockchain:: https://ethereum.org/en/whitepaper/
+Hardhat documentation:: https://hardhat.org/
+Compilation of ideas of projects:: https://www.reddit.com/r/solidity/comments/s6259q/what_are_some_good_beginner_projects/
+
+== Compilation stuff 
+
+A guide for building interpreters:: https://craftinginterpreters.com/
+
+== Git
+
+Gitignore generator:: https://www.toptal.com/developers/gitignore
+Git doc:: https://git-scm.com/doc
+
+== CTF related
+
+Regroupment of great CTF training sites::
+    * Cryptohack for crypto : https://cryptohack.org/
+    * Rootme for general cyber challenges : https://www.root-me.org/?lang=en
+    * Challenges based on simulation of real attacks : https://www.hackthebox.com/
+Overall CTF info::
+    * Twitter thread (fr) with great ressources/advices : https://twitter.com/MathisHammel/status/1478009056187109380
+    * CTF time for keeping track of CTFs : https://ctftime.org/
+
+== Misc 
+
+A great JS tutorial:: https://javascript.info/
+Great blog post on monads in functional programming:: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+A blog by a Telecom teacher that I like:: http://www.madore.org/~david/
+
