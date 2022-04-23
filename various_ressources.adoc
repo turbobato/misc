@@ -55,4 +55,4 @@ Great blog post on monads in functional programming:: http://blog.sigfpe.com/200
 Cool blog:: http://www.madore.org/~david/
 Bash cheatsheet with link to a good bash guide:: https://devhints.io/bash
 Full stack tutorial:: https://fullstackopen.com/en/
-
+Reversing various cryto codes:: https://gchq.github.io/CyberChef/#recipe=From_Morse_Code('Space','Line%20feed')&input=Li4uIC0gLiAuLSAuLiAuLiAtLi0gLi4tIC4uIC4gLi4
