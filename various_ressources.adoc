@@ -12,13 +12,15 @@ This is just a random asciidoc where I store everything I happen to find that I 
 Courses:: 
     * https://guyinatuxedo.github.io/
     * https://pwn.college/
+    * Great liveoverflow video series: https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN 
 Challenges::
     * https://www.w3challs.com/challenges/pwn/
     * https://pwnable.xyz/
     * https://pwnable.kr/
     * https://pwnable.tw/
-ASM quick guide::
+ASM guides::
    * https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf
+   * https://aaronbloomfield.github.io/pdr/book/x86-64bit-asm-chapter.pdf
 
 == Solidity development ressources
 
@@ -47,6 +49,10 @@ Overall CTF info::
     * Twitter thread (fr) with great ressources/advices : https://twitter.com/MathisHammel/status/1478009056187109380
     * CTF time for keeping track of CTFs : https://ctftime.org/
     * Ressources from root-me : https://repository.root-me.org/
+CTF tools:: 
+   * Cyberchef : https://gchq.github.io/CyberChef
+   * Dcode : https://www.boxentriq.com/code-breaking/cipher-identifier
+   * Cipher identifier : https://www.boxentriq.com/code-breaking/cipher-identifier
 
 == Misc 
 
@@ -55,4 +61,3 @@ Great blog post on monads in functional programming:: http://blog.sigfpe.com/200
 Cool blog:: http://www.madore.org/~david/
 Bash cheatsheet with link to a good bash guide:: https://devhints.io/bash
 Full stack tutorial:: https://fullstackopen.com/en/
-Reversing various cryto codes:: https://gchq.github.io/CyberChef/#recipe=From_Morse_Code('Space','Line%20feed')&input=Li4uIC0gLiAuLSAuLiAuLiAtLi0gLi4tIC4uIC4gLi4
