@@ -18,6 +18,7 @@ Challenges::
     * https://pwnable.xyz/
     * https://pwnable.kr/
     * https://pwnable.tw/
+    * https://exploit.education/
 ASM guides::
    * https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf
    * https://aaronbloomfield.github.io/pdr/book/x86-64bit-asm-chapter.pdf
