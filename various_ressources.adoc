@@ -61,3 +61,4 @@ Great blog post on monads in functional programming:: http://blog.sigfpe.com/200
 Cool blog:: http://www.madore.org/~david/
 Bash cheatsheet with link to a good bash guide:: https://devhints.io/bash
 Full stack tutorial:: https://fullstackopen.com/en/
+Frond end challenges:: https://www.frontendmentor.io
