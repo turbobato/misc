@@ -6,6 +6,10 @@
 This is just a random asciidoc where I store everything I happen to find that I think can either be useful and intersting, and that I don't want to store in my bookmarks.
 ====
 
+== Competitive programming
+
+   * Competitive programmer's handbook : https://cses.fi/book/book.pdf
+
 == Ressources for reveng/pwning 
 
 
