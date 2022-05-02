@@ -9,6 +9,7 @@ This is just a random asciidoc where I store everything I happen to find that I 
 == Competitive programming
 
    * Competitive programmer's handbook : https://cses.fi/book/book.pdf
+   * Competitive Programmer's Core Skills - mooc : https://github.com/claytonjwong/competitive-programming
 
 == Ressources for reveng/pwning 
 
