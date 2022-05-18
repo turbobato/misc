@@ -19,6 +19,7 @@ Courses::
     * https://guyinatuxedo.github.io/
     * https://pwn.college/
     * Great liveoverflow video series: https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN 
+    * pwntools tutorial : https://github.com/Gallopsled/pwntools-tutorial/blob/master/utility.md
 Challenges::
     * https://www.w3challs.com/challenges/pwn/
     * https://pwnable.xyz/
