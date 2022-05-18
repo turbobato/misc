@@ -15,6 +15,7 @@ This is just a random asciidoc where I store everything I happen to find that I 
 
 
 Courses:: 
+    * https://tc.gts3.org/cs6265/2019/tut/tut03-02-pwntools.html
     * https://guyinatuxedo.github.io/
     * https://pwn.college/
     * Great liveoverflow video series: https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN 
