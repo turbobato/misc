@@ -65,6 +65,7 @@ CTF tools::
 == Misc 
 
 A great JS tutorial:: https://javascript.info/
+Cpp tutorial:: https://www.cplusplus.com/doc/tutorial/
 Great blog post on monads in functional programming:: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 Cool blog:: http://www.madore.org/~david/
 Bash cheatsheet with link to a good bash guide:: https://devhints.io/bash
